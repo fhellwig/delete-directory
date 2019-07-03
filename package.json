@@ -1,0 +1,23 @@
+{
+  "name": "delete-directory",
+  "version": "1.0.0",
+  "description": "Recursively deletes a directory and its contents.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fhellwig/delete-directory.git"
+  },
+  "keywords": [
+    "delete",
+    "directory"
+  ],
+  "author": "Frank Hellwig <frank@hellwig.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fhellwig/delete-directory/issues"
+  },
+  "homepage": "https://github.com/fhellwig/delete-directory#readme"
+}
